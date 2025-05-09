@@ -32,7 +32,6 @@
     "lint": "eslint --cache .",
     "lint:fix": "pnpm run lint --fix",
     "build": "tsdown",
-    "build:types": "vue-tsc --outDir dist/types",
     "dev": "tsdown --watch",
     "test": "vitest",
     "typecheck": "vue-tsc --noEmit",
