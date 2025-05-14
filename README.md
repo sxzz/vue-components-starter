@@ -2,12 +2,32 @@
 
 [![Unit Test](https://github.com/sxzz/vue-components-starter/actions/workflows/unit-test.yml/badge.svg)](https://github.com/sxzz/vue-components-starter/actions/workflows/unit-test.yml)
 
-A starter for Vue components.
+A starter for creating a Vue component library.
 
-## Install
+## Development
+
+- Install dependencies:
 
 ```bash
-npm i vue-components-starter
+pnpm install
+```
+
+- Run the playground:
+
+```bash
+pnpm play
+```
+
+- Run the unit tests:
+
+```bash
+pnpm test
+```
+
+- Build the library:
+
+```bash
+pnpm build
 ```
 
 ## Sponsors
