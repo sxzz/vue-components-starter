@@ -5,5 +5,3 @@ import { MyButton } from '../../src'
 <template>
   <MyButton type="primary" />
 </template>
-
-<style scoped></style>

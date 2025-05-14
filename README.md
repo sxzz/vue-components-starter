@@ -15,7 +15,7 @@ pnpm install
 - Run the playground:
 
 ```bash
-pnpm playground
+pnpm play
 ```
 
 - Run the unit tests:
