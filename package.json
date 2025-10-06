@@ -1,7 +1,7 @@
 {
   "name": "vue-components-starter",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.17.1",
+  "packageManager": "pnpm@10.18.1",
   "description": "A starter for creating a Vue component library.",
   "type": "module",
   "license": "MIT",
@@ -44,22 +44,22 @@
     "vue": "^3.0.0"
   },
   "devDependencies": {
-    "@sxzz/eslint-config": "^7.2.6",
+    "@sxzz/eslint-config": "^7.2.7",
     "@sxzz/prettier-config": "^2.2.4",
-    "@types/node": "^22.18.6",
+    "@types/node": "^22.18.8",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/test-utils": "^2.4.6",
-    "bumpp": "^10.2.3",
-    "eslint": "^9.36.0",
-    "happy-dom": "^19.0.1",
+    "bumpp": "^10.3.1",
+    "eslint": "^9.37.0",
+    "happy-dom": "^19.0.2",
     "prettier": "^3.6.2",
-    "tsdown": "^0.15.5",
+    "tsdown": "^0.15.6",
     "tsx": "^4.20.6",
-    "typescript": "^5.9.2",
-    "vite": "^7.1.7",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.9",
     "vitest": "^3.2.4",
     "vue": "^3.5.22",
-    "vue-tsc": "^3.1.0"
+    "vue-tsc": "^3.1.1"
   },
   "prettier": "@sxzz/prettier-config"
 }
