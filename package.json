@@ -1,7 +1,7 @@
 {
   "name": "vue-components-starter",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.18.1",
+  "packageManager": "pnpm@10.18.2",
   "description": "A starter for creating a Vue component library.",
   "type": "module",
   "license": "MIT",
@@ -46,7 +46,7 @@
   "devDependencies": {
     "@sxzz/eslint-config": "^7.2.7",
     "@sxzz/prettier-config": "^2.2.4",
-    "@types/node": "^22.18.8",
+    "@types/node": "^22.18.10",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/test-utils": "^2.4.6",
     "bumpp": "^10.3.1",
